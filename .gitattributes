@@ -1,2 +1,0 @@
-201908-citibike-tripdata.csv/201908-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
-201908-citibike-tripdata.csv/ filter=lfs diff=lfs merge=lfs -text
